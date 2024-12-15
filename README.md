@@ -1,6 +1,9 @@
 ﻿# Welcome to my first Repository - MathUtil Project
 
-## 👋 Hello! My name is **Doan Trung Thanh**, born in 2004**. I am currently majoring in **Software Engineering** in the **Information Technology** field.With a strong passion for programming and software development, I always want to learn and improve my skills. Throughout my learning journey, I have built a solid foundation in **Object-Oriented Programming (OOP)** and the **Model-View-Controller (MVC)** framework.
+## 👋 Hello! My name is **Doan Trung Thanh**, born in 2004. 
+## I am currently majoring in **Software Engineering** in the **Information Technology** field.
+## With a strong passion for programming and software development, I always want to learn and improve my skills. 
+## Throughout my learning journey, I have built a solid foundation in **Object-Oriented Programming (OOP)** and the **Model-View-Controller (MVC)** framework.
 
 ### You will find in this repo:
 
